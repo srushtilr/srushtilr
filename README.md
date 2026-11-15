@@ -58,3 +58,38 @@ To combine technology, creativity, and marketing to build innovative digital sol
   <img src="https://img.shields.io/badge/Google_Analytics-E37400?style=for-the-badge&logo=googleanalytics&logoColor=white"/>
 </p>
 
+---
+
+## 🚀 My Projects
+
+### 1. Wanderlust Adventures 🌍
+**Domain:** Full Stack / Web Development
+
+- Developed a responsive travel website.
+- Technologies: HTML, CSS, JavaScript.
+- Live Demo: https://adventures-travel.netlify.app/
+
+### 2. GenAI Conversational Chatbot 🤖
+**Domain:** Generative AI
+
+- Built a conversational chatbot using Large Language Models.
+- Technologies: Python, Ollama, LangChain.
+- Explored prompts, LLMs and conversation history.
+
+### 3. IEEE 754 Single-Precision FMA ⚙️
+**Domain:** Digital Electronics / FPGA
+
+- Worked on a floating-point fused multiply-add design.
+- Technologies: Verilog HDL, FPGA.
+- Components: Radix-4 Booth Multiplier, Barrel Shifter and Kogge-Stone Adder.
+
+### 4. Face Recognition Using MATLAB 👤
+**Domain:** Image Processing
+
+- Developed a face recognition project using MATLAB.
+- Technologies: MATLAB.
+- Focused on image processing and face recognition.
+
+---
+
+
