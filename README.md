@@ -58,10 +58,3 @@ To combine technology, creativity, and marketing to build innovative digital sol
   <img src="https://img.shields.io/badge/Google_Analytics-E37400?style=for-the-badge&logo=googleanalytics&logoColor=white"/>
 </p>
 
-
-### 📊 GitHub Statistics
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=srushtilr&show_icons=true&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=srushtilr&layout=compact&theme=tokyonight)
-
