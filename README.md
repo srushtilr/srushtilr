@@ -1,16 +1,41 @@
-## Hi there 👋
 
-<!--
-**srushtilr/srushtilr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+<!--Hi, I'm Srushti L R! 👋
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🎓 Final-Year Electronics and Communication Engineering Student (2027)
+
+💻 Interested in Full Stack Development and Generative AI.
+
+📈 Exploring Digital Marketing, SEO, and Social Media Marketing.
+
+🤖 Learning to build AI-powered applications and intelligent chatbots.
+
+Technical Skills
+
+- HTML, CSS, JavaScript
+- Python
+- Git & GitHub
+- Generative AI and LLMs
+- LangChain
+
+Digital Marketing Skills
+
+- Search Engine Optimization (SEO)
+- On-Page & Off-Page SEO
+- Social Media Marketing
+- WordPress
+- Content Marketing
+- Google Analytics
+
+Currently Learning
+
+- Full Stack Web Development
+- Generative AI
+- AI-powered applications
+
+My Goal
+
+To combine technology, creativity, and marketing to build innovative digital solutions.
+
+✨ Learn. Build. Grow. Succeed.
+
