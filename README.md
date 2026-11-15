@@ -1,6 +1,4 @@
-
-
-<!--Hi, I'm Srushti L R! 👋
+#Hi, I'm Srushti L R! 👋
 
 🎓 Final-Year Electronics and Communication Engineering Student (2027)
 
@@ -63,6 +61,6 @@ To combine technology, creativity, and marketing to build innovative digital sol
 
 📊 GitHub Statistics
 
-"GitHub Stats" (https://github-readme-stats.vercel.app/api?username=srushtilr&show_icons=true&theme=tokyonight)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=srushtilr&show_icons=true&theme=tokyonight)
 
-"Top Languages" (https://github-readme-stats.vercel.app/api/top-langs/?username=srushtilr&layout=compact&theme=tokyonight)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=srushtilr&layout=compact&theme=tokyonight)
