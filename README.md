@@ -90,6 +90,22 @@ To combine technology, creativity, and marketing to build innovative digital sol
 - Technologies: MATLAB.
 - Focused on image processing and face recognition.
 
----
+
+
+## 🤝 Connect With Me
+
+<p align="left">
+  <a href="https://github.com/srushtilr">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+  <a href="https://www.linkedin.com/in/srushti-l-r/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+</p>
+
+📧 Email: srushtilr64@gmail.com
+
+⭐ Thanks for visiting my profile!
+
 
 
